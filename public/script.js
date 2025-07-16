@@ -1,4 +1,4 @@
-const tmdbKey = 'dcf72820922451a64bcb378a4fa19bee';
+const tmdbKey = '';
 const tmdbBaseUrl = 'https://api.themoviedb.org/3';
 const playBtn = document.getElementById('playBtn');
 
